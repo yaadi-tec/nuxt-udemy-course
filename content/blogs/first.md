@@ -49,4 +49,4 @@ Tables:
 </html>
 ```
 
-[Go to the second article](/blogs/second)
+[Go to the second article](/blogs/vue-intro)
